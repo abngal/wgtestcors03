@@ -49,8 +49,8 @@ export interface AuthProvider {
 }
 
 export const defaultClientConfig: ClientConfig = {
-	applicationHash: "82ed9616",
-	baseURL: "https://8888-abngal-wgtestcors03-wfazppvxss3.ws-us98.gitpod.io",
+	applicationHash: "40dbb4ee",
+	baseURL: "https://9991-abngal-wgtestcors03-wfazppvxss3.ws-us98.gitpod.io",
 	sdkVersion: "0.158.1",
 };
 
